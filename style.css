@@ -1,0 +1,13 @@
+body{
+    background-color: cornsilk;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    color: crimson;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: indianred;
+}
